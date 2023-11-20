@@ -3,7 +3,7 @@ layout: post
 title: Architecture of the System
 ---
 
-Welcome to my first truly technical post where I'll delve into the architecture of my inventory level management system – "Stock-Mate." If you've been following my previous posts, you already have an idea of what the system is about. Let's get straight to the point, starting with the system architecture.
+This post breaks down the raw architecture of "Stock-Mate," my inventory management system.
 
 ## Event-Driven Architecture
 
