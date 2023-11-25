@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Infrastructure as Code - setting initial AWS cdk stack - VPC
+title: Infrastructure as Code - creating RDS stack with initializing lambda
 ---
 Infrastructure as Code - creating RDS stack with initializing lambda
 This is the second post in the series, below link to the fist one, just in case you missed it:infrastructure-as-code-setting-initial-aws-cdk-stack-vpc-rds-lambda-sns
